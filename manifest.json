@@ -1,0 +1,13 @@
+{
+  "name": "Batch Group",
+  "description": "automatically create nets",
+  "version": "1.8",
+  "homepage": "https://github.com/colton81/net-creator",
+  "updatebaseurl": "https://raw.githubusercontent.com/colton81/net-creator/autoupdate/extension/",
+  "author": "Colton Hillebrand",
+  "icons": {
+    "default": "ext-icon.svg"
+  },
+  "locale": "locale.txt",
+  "scripts": ["main.js"]
+}
